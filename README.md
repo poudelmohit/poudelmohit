@@ -13,7 +13,7 @@
 
 - 💬 I love discussing **Biology, Biotechnology and Data Analysis**
 
-- 📫 How to reach me **mp067823@ohio.edu**
+- 📫 Reach out to me at **mp067823@ohio.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
