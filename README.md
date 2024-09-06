@@ -31,7 +31,9 @@
 # 👯 WORK HISTORY
 
 ### 🚧 **Graduate Research Assistant @ Alvarado-Serrano Lab, Ohio University**
+
 **01/08/2023 - Present**
+
 ► isolation of DNA sequences and amplification of specific gene regions using molecular biology techniques
 
 ► Working with Next-Generation-Sequencing (NGS) library preparation and becoming proficient in both dry and wetlab workflows
@@ -39,7 +41,9 @@
 ► Analyzing and interpreting NGS data using bioinformatics tools for the publication of the ongoing research projects
 
 ### 🚧 **Research Intern @ Center for Biotechnology, Agriculture and Forestry University**
+
 **01/2023 - 07/2023**
+
 ► Utilizing PCR machines to amplify specific DNA sequences, gaining proficiency in molecular biology techniques
 
 ► Working with bacteria culture devices and autoclaves, becoming proficient in standard microbiology techniques
@@ -47,13 +51,16 @@
 ► Analyzing and interpreting data using Excel and specialized analysis software, demonstrating strong analytical skills
 
 ### 🚧 **Intern @ Prime Minister Agriculture Modernization Project**
+
 **01/2022 - 07/2022**
+
 ► Conducted ‘2-Days Training on Pesticide Usage’ for 200 farmers of the district
 
 ► Collaborated with officials for farmers’ data collection and preprocessing
 
 
 # 📫 EDUCATION    
+
 ✔️ Masters in Biological Science, Ohio University, USA
 
 ✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University, Nepal
