@@ -34,7 +34,7 @@
 
 **01/08/2023 - Present**
 
-► isolation of DNA sequences and amplification of specific gene regions using molecular biology techniques
+► Isolation of DNA sequences and amplification of specific gene regions using molecular biology techniques
 
 ► Working with Next-Generation-Sequencing (NGS) library preparation and becoming proficient in both dry and wetlab workflows
 
