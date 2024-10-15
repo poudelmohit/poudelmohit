@@ -13,7 +13,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 🌱 EXPERIENCE & QUALIFICATIONS :
-
 ### Alvarado-Serrano Lab, Ohio University
 **Graduate Research Assistant**
 - Leading a predator-diet analysis project for Department of Natural Resources as part of the master’s thesis, leveraging DNA metabarcoding to unravel dietary patterns of North American predators in diverse ecosystem.
@@ -34,14 +33,6 @@
 - Conducted a native pollinator survey as a part of undergraduate thesis to document pollinator species among residents in Rukum West, Nepal, with aim to facilitate better agricultural practices and conservation efforts.
 - Fostered technology adoption among local farmers in the hilly regions of Nepal by training them on mobile applications designed for agricultural use.
 
-  
-✔️ Commandable knowledge on Bash Scripting, Git (version control), R MarkDown, Python and Excel
-
-✔️ Strong hands on experience in High Performance Computing using SLURM
-
-✔️ Good understanding of statistical principles and their respective applications
-
-✔️ Excellent team-player and displaying strong sense of initiative on tasks
 
 # 🔭 SKILLS 
 - 👩‍💻 Programming: Python, R, Bash, Git, High Performance Computing, Slurm
@@ -51,16 +42,18 @@
 
 # 📫 EDUCATION    
 
-✔️ **Masters in Biological Science**, Ohio University, USA
-  *Anticipated Graduation: May 2025*
-  Major: Ecology and Evolution
+✔️ **Masters in Biological Science**
+       Ohio University, USA
+      *Anticipated Graduation: May 2025*
+       Major: Ecology and Evolution
   
-✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University, Nepal
-*Bachelor of Agriculture Science GPA: 3.2*
+✔️  **Bachelor of Science in Agriculture**
+       Agriculture & Forestry University, Nepal
+       2018-2022    
 
 # 📫 Courseworks and Projects
 
-**Metagenomic Analysis of Environmental Samples**
+[**Metagenomic Analysis of Environmental Samples**](https://github.com/poudelmohit/metagenomics_workshop)
 
 -  Developed and published a Bash pipeline with Conda environment management for Illumina data, performing QC, trimming, assembly, taxonomic assignment, and visualization for metagenomic studies.
 
