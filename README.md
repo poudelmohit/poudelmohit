@@ -2,7 +2,7 @@
 
 ## About Me:
 🌱 I’m currently working as a **Graduate Research Assistant** at Ohio University, and concurrently <br>
-<br>🌱 Pursuing **Masters in Biological Science** at Ohio University, Ohio.<br>
+<br>🌱 I'm Pursuing **Masters in Biological Science** at Ohio University, Ohio.<br>
 <br>👯 I’m looking to collaborate on projects related to **Next-Generation-Sequencing Data Analysis**<br>
 <br>💬 I love discussing Biology, Biotechnology and Data Analysis<br>
 
