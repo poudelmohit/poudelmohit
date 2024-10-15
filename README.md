@@ -21,12 +21,13 @@
 
 ### Department of Biological Sciences, Ohio University 
 **Graduate Teaching Assistant**
-• Led the undergraduate course “Biological Sciences Lab I (BIOS 1705)”, guiding over 40 students for hands-on 
-biological experiments and conducted designing and grading of exams, lab reports and assignments.
-Centre for Biotechnology | Chitwan, Nepal Jan 2023 – Jul 2023
-Junior Research Intern
+• Led the undergraduate course “Biological Sciences Lab I (BIOS 1705)”, guiding over 40 students for hands-on biological experiments and conducted designing and grading of exams, lab reports and assignments.
+
+### Centre for Biotechnology, Agriculture and Forestr University
+**Junior Research Intern**
 • Participated in laboratory work for ongoing PhD project on Antibiotic Sensitivity Testing of medications commonly 
 used for treating mastitis in cattle in Nepal.
+
 ✔️ Commandable knowledge on Bash Scripting, Git, R MarkDown
 
 ✔️ Strong hands on experience and knowledge in Python and Excel
