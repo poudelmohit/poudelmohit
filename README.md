@@ -1,9 +1,9 @@
 # 💫 Hi!, Welcome to my GitHub Profile !!
 
 ## About Me:
-🌱 I’m currently working as a Graduate Research Assistant at Ohio University, and concurrently <br>
-<br>🌱 Pursuing Masters in Biological Science at Ohio University, Ohio.<br>
-<br>👯 I’m looking to collaborate on projects related to Next-Generation-Sequencing Data Analysis<br>
+🌱 I’m currently working as a **Graduate Research Assistant** at Ohio University, and concurrently <br>
+<br>🌱 Pursuing **Masters in Biological Science** at Ohio University, Ohio.<br>
+<br>👯 I’m looking to collaborate on projects related to **Next-Generation-Sequencing Data Analysis**<br>
 <br>💬 I love discussing Biology, Biotechnology and Data Analysis<br>
 
 ## 🌐 Socials:
@@ -21,65 +21,65 @@
 
 ### Department of Biological Sciences, Ohio University 
 **Graduate Teaching Assistant**
-• Led the undergraduate course “Biological Sciences Lab I (BIOS 1705)”, guiding over 40 students for hands-on biological experiments and conducted designing and grading of exams, lab reports and assignments.
+- Led the undergraduate course “Biological Sciences Lab I (BIOS 1705)”, guiding over 40 students for hands-on biological experiments.
+- Assisted in the designing and grading of exams, lab reports, and assignments, ensuring timely feedback and comprehensive assessment of student performance.
 
-### Centre for Biotechnology, Agriculture and Forestr University
+### Centre for Biotechnology, Agriculture and Forestry University
 **Junior Research Intern**
-• Participated in laboratory work for ongoing PhD project on Antibiotic Sensitivity Testing of medications commonly 
-used for treating mastitis in cattle in Nepal.
+- Participated in laboratory work for ongoing PhD project on Antibiotic Sensitivity Testing of medications commonly used for treating mastitis in cattle in Nepal.
+- Involved in conducting DNA extraction and PCR from fecal samples for the diet study of Snow Leopards in Nepal.
 
-✔️ Commandable knowledge on Bash Scripting, Git, R MarkDown
+### Prime Minister Agriculture Modernization Project (PMAMP)
+**Junior Research Intern**
+- Conducted a native pollinator survey as a part of undergraduate thesis to document pollinator species among residents in Rukum West, Nepal, with aim to facilitate better agricultural practices and conservation efforts.
+- Fostered technology adoption among local farmers in the hilly regions of Nepal by training them on mobile applications designed for agricultural use.
 
-✔️ Strong hands on experience and knowledge in Python and Excel
+  
+✔️ Commandable knowledge on Bash Scripting, Git (version control), R MarkDown, Python and Excel
+
+✔️ Strong hands on experience in High Performance Computing using SLURM
 
 ✔️ Good understanding of statistical principles and their respective applications
 
 ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 
 # 🔭 SKILLS 
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas, BioPython, Streamlit)
-- 📊 Data Visulization: MS Excel, Plotly
-- 📚 Modeling: Logistic regression, linear regression, decision trees
-- 🗄️ Bioinformatics Tools : Jalview, MuSCLE, MEGA, etc 
-
-
-# 👯 WORK HISTORY
-
-### 🚧 **Graduate Research Assistant @ Alvarado-Serrano Lab, Ohio University**
-
-**01/08/2023 - Present**
-
-► Isolation of DNA sequences and amplification of specific gene regions using molecular biology techniques
-
-► Working with Next-Generation-Sequencing (NGS) library preparation and becoming proficient in both dry and wetlab workflows
-
-► Analyzing and interpreting NGS data using bioinformatics tools for the publication of the ongoing research projects
-
-### 🚧 **Research Intern @ Center for Biotechnology, Agriculture and Forestry University**
-
-**01/2023 - 07/2023**
-
-► Utilizing PCR machines to amplify specific DNA sequences, gaining proficiency in molecular biology techniques
-
-► Working with bacteria culture devices and autoclaves, becoming proficient in standard microbiology techniques
-
-► Analyzing and interpreting data using Excel and specialized analysis software, demonstrating strong analytical skills
-
-### 🚧 **Intern @ Prime Minister Agriculture Modernization Project**
-
-**01/2022 - 07/2022**
-
-► Conducted ‘2-Days Training on Pesticide Usage’ for 200 farmers of the district
-
-► Collaborated with officials for farmers’ data collection and preprocessing
+- 👩‍💻 Programming: Python, R, Bash, Git, High Performance Computing, Slurm
+- 📚 Laboratory: DNA extraction, PCR, Gel Electrophoresis, Cell Culture, Western Blotting, SDS Page
+- 🗄️ Bioinformatics Tools : Next-Generation Sequencing Data Analysis, Data Mining, Pipeline Creation, etc 
 
 
 # 📫 EDUCATION    
 
-✔️ Masters in Biological Science, Ohio University, USA
-
+✔️ **Masters in Biological Science**, Ohio University, USA
+  *Anticipated Graduation: May 2025*
+  Major: Ecology and Evolution
+  
 ✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University, Nepal
+*Bachelor of Agriculture Science GPA: 3.2*
 
+# 📫 Courseworks and Projects
+
+**Metagenomic Analysis of Environmental Samples**
+
+-  Developed and published a Bash pipeline with Conda environment management for Illumina data, performing QC, trimming, assembly, taxonomic assignment, and visualization for metagenomic studies.
+
+**Whole Exome Sequencing of a Family Trio**
+
+- Conducted variant calling and annotation on exome data from a family trio using HPC with SLURM for large-scale genomic data processing.
+  
+ **RNA-seq Analysis of Rat Samples**
+ 
+- Reproduced scRNA-seq analysis pipeline using Snakemake, performing quality control, dimensionality reduction, and differential expression analysis on rat sample data.
+  
+**Ecological Model Simulator**
+
+- Built a web application with python that explains and simulates a mathematical model of interspecific competition based on the input parameters set by the user
+
+# 📚 PRESENTATIONS
+- 7th GEDGWGG eDNA Workshop @ Columbus, OH Sep 2024
+- 103rd Annual Meeting of the American Society of Mammologists @ Boulder, CO Jun 2024
+- Ohio University Student Expo @ Athens, OH Apr 2024
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=poudelmohit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
