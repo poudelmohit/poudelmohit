@@ -57,15 +57,15 @@
 
 -  Developed and published a Bash pipeline with Conda environment management for Illumina data, performing QC, trimming, assembly, taxonomic assignment, and visualization for metagenomic studies.
 
-**Whole Exome Sequencing of a Family Trio**
+[**Whole Exome Sequencing of a Family Trio**](https://github.com/poudelmohit/whole_exome_sequencing)
 
 - Conducted variant calling and annotation on exome data from a family trio using HPC with SLURM for large-scale genomic data processing.
   
- **RNA-seq Analysis of Rat Samples**
+ **RNA-seq Analysis of Rat Samples**[Ongoing]
  
 - Reproduced scRNA-seq analysis pipeline using Snakemake, performing quality control, dimensionality reduction, and differential expression analysis on rat sample data.
   
-**Ecological Model Simulator**
+[**Ecological Model Simulator**](https://mohit254-lotka-volterra-model-streamlit-app-qsvyge.streamlit.app/)
 
 - Built a web application with python that explains and simulates a mathematical model of interspecific competition based on the input parameters set by the user
 
