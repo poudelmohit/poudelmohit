@@ -51,24 +51,6 @@
        Agriculture & Forestry University, Nepal
        2018-2022    
 
-# 📫 Courseworks and Projects
-
-[**Metagenomic Analysis of Environmental Samples**](https://github.com/poudelmohit/metagenomics_workshop)
-
--  Developed and published a Bash pipeline with Conda environment management for Illumina data, performing QC, trimming, assembly, taxonomic assignment, and visualization for metagenomic studies.
-
-[**Whole Exome Sequencing of a Family Trio**](https://github.com/poudelmohit/whole_exome_sequencing)
-
-- Conducted variant calling and annotation on exome data from a family trio using HPC with SLURM for large-scale genomic data processing.
-  
- **RNA-seq Analysis of Rat Samples**[Ongoing]
- 
-- Reproduced scRNA-seq analysis pipeline using Snakemake, performing quality control, dimensionality reduction, and differential expression analysis on rat sample data.
-  
-[**Ecological Model Simulator**](https://mohit254-lotka-volterra-model-streamlit-app-qsvyge.streamlit.app/)
-
-- Built a web application with python that explains and simulates a mathematical model of interspecific competition based on the input parameters set by the user
-
 # 📚 PRESENTATIONS
 - 7th GEDGWGG eDNA Workshop @ Columbus, OH Sep 2024
 - 103rd Annual Meeting of the American Society of Mammologists @ Boulder, CO Jun 2024
@@ -78,9 +60,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=poudelmohit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=poudelmohit&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poudelmohit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=poudelmohit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=poudelmohit&icon=0&color=0)](https://visitcount.itsvg.in)
